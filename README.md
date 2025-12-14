@@ -119,7 +119,7 @@ MIT License - see [LICENSE](LICENSE)
 ## 👤 Author
 
 **Emidowojo Opaluwa**  
-- LinkedIn: [Emidowojo](https://www.linkedin.com/in/emidowojo/)
+- LinkedIn: [Emidowojo Opaluwa](https://www.linkedin.com/in/emidowojo/)
 - Twitter: [@Emidowojo](https://twitter.com/Emidowojo)
 
 ---
